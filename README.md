@@ -1,6 +1,13 @@
-# cctv_player_project
+# Simple App CCTV Player
 
-A new Flutter project.
+<img src="assets/thumbnail.png"/>
+
+##
+
+This is a simple App for Streaming CCTV using RTSP link or Stream Video using URL Link.
+
+## Author(s)
+**Tedo Haris Chandra** ([Follow my Instagram](https://instagram.com/dooooo.dev))
 
 ## Getting Started
 
